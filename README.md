@@ -1,1 +1,1 @@
-# solomon_kenyan
+#Initial blog page model
